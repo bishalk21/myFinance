@@ -15,4 +15,4 @@ react-router-dom is a library that allows you to use react-router in your react 
 
 # React-toastify
 
-react-toastify is a library that allows you to use toast notifications in your react app. It is for
+react-toastify is a library that allows you to use toast notifications in your react app. It is for pop up notifications.
